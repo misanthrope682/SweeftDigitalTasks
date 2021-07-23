@@ -1,0 +1,13 @@
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.exe
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.deps.json
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.runtimeconfig.json
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.runtimeconfig.dev.json
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.dll
+C:\Users\Shunko\Desktop\task-1\task-1\bin\Debug\netcoreapp3.1\task-1.pdb
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.csproj.AssemblyReference.cache
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.AssemblyInfoInputs.cache
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.AssemblyInfo.cs
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.csproj.CoreCompileInputs.cache
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.dll
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.pdb
+C:\Users\Shunko\Desktop\task-1\task-1\obj\Debug\netcoreapp3.1\task-1.genruntimeconfig.cache
